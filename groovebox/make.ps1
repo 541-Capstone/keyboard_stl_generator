@@ -1,1 +1,1 @@
-py ../
+py ..\keyboard_stl_generator.py -i .\Groovebox.json -p .\parameters.json -a -r -f 50
