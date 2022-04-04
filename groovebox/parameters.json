@@ -32,7 +32,7 @@
     "screw_diameter": 4,
     "screw_edge_inset": 7,
 
-    "cable_hole": true,
+    "cable_hole": false,
     "cable_hole_width": 11,
     "cable_hole_height": 7,
     "cable_diameter": 3,
@@ -43,15 +43,40 @@
             "type": "circle",
             "d": 7,
             "coordinates": [
-                [200, 120]
+                [200, 105]
             ]
         },
         {
-            "type": "rectangle",
-            "width": 12.5,
+            "type": "circle",
+            "d": 7,
             "coordinates": [
-                [0, 0]
+                [200, 125]
+            ]
+        },
+        
+        {
+            "type": "circle",
+            "d": 7,
+            "coordinates": [
+                [180, 115]
+            ]
+        },
+        {
+            "type": "circle",
+            "d": 7,
+            "coordinates": [
+                [180, 135]
+            ]
+        },
+
+        {
+            "type": "rectangle",
+            "width": 141,
+            "height" : 75,
+            "coordinates": [
+                [20, 75]
             ]
         }
+       
     ]
 }

@@ -1,1 +1,1 @@
-py ..\keyboard_stl_generator.py -i .\Groovebox.json -p .\parameters.json -a -r -f 50
+py ..\keyboard_stl_generator.py -i .\Groovebox_alt.json -p .\parameters.json -a -r -f 20
